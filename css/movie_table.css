@@ -1,0 +1,6 @@
+#movie_table,
+#movie_table > tbody > tr > th,
+#movie_table > tbody > tr > td {
+    text-align: center;
+    vertical-align: middle;
+}
